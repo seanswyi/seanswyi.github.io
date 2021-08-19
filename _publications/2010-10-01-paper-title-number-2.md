@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Answering Questions on COVID-19 in Real-Time"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/answering-questions-on-covid-19-in-real-time
+excerpt: 'This paper is about the covidAsk system. covidAsk is a real-time QA system that retrieves answers about COVID-19 in real time.'
+date: 2020-06-29
+venue: 'EMNLP NLP-COVID Workshop'
+paperurl: 'https://aclanthology.org/2020.nlpcovid19-2.1'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://aclanthology.org/2020.nlpcovid19-2.1)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
